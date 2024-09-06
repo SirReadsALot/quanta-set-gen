@@ -1,1 +1,1 @@
-# quanta-set-gen
+# Quanta-Set-Gen
